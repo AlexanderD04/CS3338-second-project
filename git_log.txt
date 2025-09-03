@@ -1,0 +1,76 @@
+commit 166bbff0ffba5a6cbed6ae66c83999fe5697c2fb
+Merge: a6708f2 f6c5b61
+Author: AlexanderD04 <Alex.m.diaz04@gmail.com>
+Date:   Wed Sep 3 00:35:33 2025 -0700
+
+    solved the merge conflict
+
+commit f6c5b6161b06e732c936d2131f95d45eaaec66c0
+Author: AlexanderD04 <Alex.m.diaz04@gmail.com>
+Date:   Wed Sep 3 00:28:22 2025 -0700
+
+    index-fix: added favorite movie
+
+commit a6708f2cb100d35df1ce87038aa170582ec16bc1
+Author: AlexanderD04 <Alex.m.diaz04@gmail.com>
+Date:   Wed Sep 3 00:26:26 2025 -0700
+
+    main: added favorite food
+
+commit 8ffdca35282c155478cf066d4d44b3c9dfde2b53
+Merge: e3a0112 0fa67f1
+Author: AlexanderD04 <Alex.m.diaz04@gmail.com>
+Date:   Wed Sep 3 00:20:34 2025 -0700
+
+    Merge branch 'index-fix'
+
+commit 0fa67f1174ac042862f46b04229bb3afe160ac9e
+Author: AlexanderD04 <Alex.m.diaz04@gmail.com>
+Date:   Wed Sep 3 00:20:05 2025 -0700
+
+    index-fix: aded favorite movie
+
+commit e3a01120eaa06b034b5f6b3403361d09b887fb0a
+Author: AlexanderD04 <Alex.m.diaz04@gmail.com>
+Date:   Wed Sep 3 00:16:19 2025 -0700
+
+    added favorite food
+
+commit 8aed04e5be31aaa9605bb208cc3432965ad95053
+Author: AlexanderD04 <Alex.m.diaz04@gmail.com>
+Date:   Wed Sep 3 00:12:08 2025 -0700
+
+    added favorite movie
+
+commit 75d5efe20b8634f11a0ad907fda52f2bb1431946
+Author: AlexanderD04 <Alex.m.diaz04@gmail.com>
+Date:   Wed Sep 3 00:08:52 2025 -0700
+
+    added favorite food
+
+commit 3f57757cb05fdde9bec7edd2d1b63c5f4734e56c
+Author: AlexanderD04 <Alex.m.diaz04@gmail.com>
+Date:   Tue Sep 2 23:04:54 2025 -0700
+
+    Add README describing Repo
+
+commit 42805e4905cc2f763731e05b8f5123c5ba580ef3
+Merge: 1d2bfc0 b19dc1c
+Author: AlexanderD04 <alex.m.diaz04@gmail.com>
+Date:   Tue Sep 2 22:53:02 2025 -0700
+
+    Merge pull request #1 from AlexanderD04/info-fill
+    
+    Filled in the blanks in index.html
+
+commit b19dc1c3006e04d0640d48e5b6e943e629fbce55
+Author: AlexanderD04 <Alex.m.diaz04@gmail.com>
+Date:   Tue Sep 2 22:33:49 2025 -0700
+
+    blank
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
